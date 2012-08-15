@@ -1,4 +1,4 @@
-= Adam Hutchison's Dot Files
+= Mike Moulton's Dot Files
 
 These are config files to set up a system the way I like it. They are heavily
 inspired by Ryan Bates' Dot Files (http://github.com/ryanb/dotfiles)
@@ -6,7 +6,7 @@ inspired by Ryan Bates' Dot Files (http://github.com/ryanb/dotfiles)
 
 == Installation
 
-  git clone git://github.com/liveh2o/dotfiles ~/.dotfiles
+  git clone git://github.com/mikebmou/dotfiles ~/.dotfiles
   cd ~/.dotfiles
   rake install
 
